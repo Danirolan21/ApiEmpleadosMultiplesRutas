@@ -1,4 +1,4 @@
-﻿using ApiEmpleadosMultiplesRutas.Models;
+﻿using NugetApiModelsDrl;
 using ApiEmpleadosMultiplesRutas.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
